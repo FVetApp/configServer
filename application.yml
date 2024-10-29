@@ -1,1 +1,2 @@
-message: hello world!
+greeting:
+  message: "Hello from Config Server!"
